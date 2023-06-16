@@ -13,12 +13,5 @@ vesoljce. Igralec premika laser levo in desno, hkrati pa se vesoljcki premikajo 
 dnu ekrana. Igre je konec, ko pobijes vse vesoljcke ali pa ko oni dosežejo dno ekrana.
 Med igranjem nabiraš točke in več točk ko zbereš boljše je.  </li>
   
-  <li> V 1. tednu si bova bolj natančno razdelila naloge. Nato bova sestavila glavne razrede,
-ki jih bova potrebovala za končno igro in jih postopoma nadgrajevala. V 2. tednu
-bova sestavila osnovno delovanje igre, ki posodablja stanje objektov razredov. 3.
-teden bova pripravila grafični vmesnik. Na koncu bova povezala razrede z grafičnim
-vmesnikom, ki prikazuje stanje objektov raredov, ki se bo posodabljalo tekom
-izvajanja igre. </li>
-  
   <li> Vid Julijan Ahačevčič in Gašper Gašperšič </li>
 </ol>
